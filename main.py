@@ -1,5 +1,5 @@
 # Creado el 09 de Marzo de 2023 por José Luis Santos Mendoza
-# Actividad 1: procesamiento por lotes
+# Actividad 3: algoritmos de planificación
 # Universidad de Guadalajara, Seminario de Solución de Problemas de Sistemas Operativos
 # Profesor Javier Rosales Martínez, Sección D06
 
